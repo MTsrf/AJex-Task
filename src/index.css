@@ -1,0 +1,31 @@
+.login-head {
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+}
+
+.input-field {
+  max-width: 200px;
+  width: 100%;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.first {
+  width: 200px;
+  border: 1px solid lightblue;
+  padding: 20px;
+}

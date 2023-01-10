@@ -1,0 +1,27 @@
+[
+    {
+        "menuId": "1",
+        "menuName": "Home",
+        "userType": "first"
+    },
+    {
+        "menuId": "2",
+        "menuName": "About",
+        "userType": "second"
+    },
+    {
+        "menuId": "3",
+        "menuName": "Careers",
+        "userType": "second"
+    },
+    {
+        "menuId": "4",
+        "menuName": "Contact",
+        "userType": "second"
+    },
+    {
+        "menuId": "5",
+        "menuName": "Protfolio",
+        "userType": "first"
+    }
+]
